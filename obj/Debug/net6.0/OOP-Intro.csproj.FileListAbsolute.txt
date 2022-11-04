@@ -1,0 +1,15 @@
+C:\Users\mkamiss1\source\repos\OOP-Intro\bin\Debug\net6.0\OOP-Intro.exe
+C:\Users\mkamiss1\source\repos\OOP-Intro\bin\Debug\net6.0\OOP-Intro.deps.json
+C:\Users\mkamiss1\source\repos\OOP-Intro\bin\Debug\net6.0\OOP-Intro.runtimeconfig.json
+C:\Users\mkamiss1\source\repos\OOP-Intro\bin\Debug\net6.0\OOP-Intro.dll
+C:\Users\mkamiss1\source\repos\OOP-Intro\bin\Debug\net6.0\OOP-Intro.pdb
+C:\Users\mkamiss1\source\repos\OOP-Intro\obj\Debug\net6.0\OOP-Intro.csproj.AssemblyReference.cache
+C:\Users\mkamiss1\source\repos\OOP-Intro\obj\Debug\net6.0\OOP-Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkamiss1\source\repos\OOP-Intro\obj\Debug\net6.0\OOP-Intro.AssemblyInfoInputs.cache
+C:\Users\mkamiss1\source\repos\OOP-Intro\obj\Debug\net6.0\OOP-Intro.AssemblyInfo.cs
+C:\Users\mkamiss1\source\repos\OOP-Intro\obj\Debug\net6.0\OOP-Intro.csproj.CoreCompileInputs.cache
+C:\Users\mkamiss1\source\repos\OOP-Intro\obj\Debug\net6.0\OOP-Intro.dll
+C:\Users\mkamiss1\source\repos\OOP-Intro\obj\Debug\net6.0\refint\OOP-Intro.dll
+C:\Users\mkamiss1\source\repos\OOP-Intro\obj\Debug\net6.0\OOP-Intro.pdb
+C:\Users\mkamiss1\source\repos\OOP-Intro\obj\Debug\net6.0\OOP-Intro.genruntimeconfig.cache
+C:\Users\mkamiss1\source\repos\OOP-Intro\obj\Debug\net6.0\ref\OOP-Intro.dll
